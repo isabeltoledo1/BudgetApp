@@ -23,7 +23,7 @@ Offline entries should be added to tracker.
   
 ### Deployed Link
     
-  
+ https://guarded-journey-92358.herokuapp.com/ 
 
 
 ### Installation
